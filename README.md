@@ -1,0 +1,2 @@
+# TokenSniper
+Crypto Project
